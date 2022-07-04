@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = myspamvn@yahoo.com
+	name = Oanh Nguyen
